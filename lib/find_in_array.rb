@@ -7,5 +7,4 @@ count = 0
       return nil
     count += 1
   end
-  end
 end
